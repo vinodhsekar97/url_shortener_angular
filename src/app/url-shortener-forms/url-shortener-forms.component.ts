@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { FormControl, FormGroup, Validators } from '@angular/forms'
-import { UrlService } from '../url.service';
 import { Router } from '@angular/router';
+import { UrlService } from '../url.service';
 
 @Component({
   selector: 'app-url-shortener-forms',
