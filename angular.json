@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "url-shortener"
+    }
+  },
+  "defaultProject": "url-shortener",
+  "cli": {
+    "analytics": false
+  }
 }
